@@ -1,0 +1,5 @@
+t=('hello',1,2,3)
+print(t)
+x=list(t)
+x.append(4)
+print(x)
